@@ -1,4 +1,4 @@
-const { threeToTwenty, tenToTwoHundred } = require("../../solutions/balancing");
+const { threeToTwenty, tenToTwoHundred } = require("../../javascript/balancing");
 const { bstToArray, isBalanced } = require("./validation_methods");
 
 describe("balanced BSTs", () => {
